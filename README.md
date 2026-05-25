@@ -216,10 +216,9 @@ Admin     →  Login           →  Approve Cooks    →  Manage Categories  (fu
 
 ### 🔐 Authentication
 
-| Register | Login |
-|:---:|:---:|
-| ![Register](<img width="614" height="346" alt="image" src="https://github.com/user-attachments/assets/0cbccaa4-641b-4f84-a079-e927e4c7a1a1" />
-) | ![Login](screenshots/image2.png) |
+| Register <img width="614" height="346" alt="image" src="https://github.com/user-attachments/assets/0cbccaa4-641b-4f84-a079-e927e4c7a1a1" /> | 
+
+|Login <img width="614" height="346" alt="image" src="https://github.com/user-attachments/assets/8fdf1677-b185-4230-97e1-67a4f7567180" /> |
 
 ---
 
