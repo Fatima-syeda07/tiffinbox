@@ -218,7 +218,8 @@ Admin     →  Login           →  Approve Cooks    →  Manage Categories  (fu
 
 | Register | Login |
 |:---:|:---:|
-| ![Register](screenshots/image1.png) | ![Login](screenshots/image2.png) |
+| ![Register](<img width="614" height="346" alt="image" src="https://github.com/user-attachments/assets/0cbccaa4-641b-4f84-a079-e927e4c7a1a1" />
+) | ![Login](screenshots/image2.png) |
 
 ---
 
@@ -294,11 +295,11 @@ Admin     →  Login           →  Approve Cooks    →  Manage Categories  (fu
 
 ## 👩‍💻 Team
 
-| Name | Seat No |
+| Name | 
 |---|---|
-| Faryal Khan | 2431060 |
-| Fatima Ahmed | 2431062 |
-| Syeda Fatima Rafat | 2431121 |
+| Faryal Khan | 
+| Fatima Ahmed |
+| Syeda Fatima Rafat |
 
 **Department of Computer Science & Software Engineering**  
 Jinnah University for Women, Karachi · May 2026
